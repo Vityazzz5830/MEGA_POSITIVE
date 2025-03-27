@@ -1,0 +1,304 @@
+@media screen and (max-width: 1900px) and (min-width: 1301px){
+
+.header_content {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.header_content_navmenu_list_item {
+  font-size: 0.875rem;
+}
+
+
+.header_content_logo > a:nth-child(1) > img:nth-child(1) {
+  width: 150px;
+}
+
+.firstsec_mainpage {
+  width: calc(100vw - 40px);
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+.header_content_phone a {
+  font-size: 0.875rem;
+}
+
+.header_content_order a {
+  font-size: 0.875rem;
+}
+
+.header_content_navmenu_list_item {
+  padding-right: 5px;
+  padding-left: 6px;
+}
+
+.header_content_rightpart {
+  column-gap: 3px;
+}
+
+
+.header_content_navmenu_list_item {
+  white-space: nowrap;
+}
+
+.wrapper {
+overflow: hidden;
+}
+
+.header_content_order {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+  .header_content_rightpart {
+    column-gap: 10px;
+  }
+
+  .header_content_navmenu_list_item {
+    padding-right: 8px;
+    padding-left: 8px;
+  }
+
+
+.header_content_navmenu_list {
+  justify-content: space-between;
+}
+
+.header_content_navmenu_list_item {
+  padding-right: 22px;
+  padding-left: 22px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 1440px) and (min-width: 1200px){
+
+/*----------------------ГЛАВНАЯ---------------------------*/
+
+
+.header_content {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.header_content_navmenu_list_item {
+  font-size: 0.875rem;
+}
+
+
+.header_content_logo > a:nth-child(1) > img:nth-child(1) {
+  width: 150px;
+}
+
+.firstsec_mainpage {
+  width: calc(100vw - 40px);
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+.header_content_phone a {
+  font-size: 0.875rem;
+}
+
+.header_content_order a {
+  font-size: 0.875rem;
+}
+
+.header_content_navmenu_list_item {
+  padding-right: 5px;
+  padding-left: 6px;
+}
+
+.header_content_rightpart {
+  column-gap: 3px;
+}
+
+
+.header_content_navmenu_list_item {
+  white-space: nowrap;
+}
+
+.wrapper {
+overflow: hidden;
+}
+
+.header_content_order {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+  .header_content_rightpart {
+    column-gap: 10px;
+  }
+
+  .header_content_navmenu_list_item {
+    padding-right: 8px;
+    padding-left: 8px;
+  }
+
+  .header_content_navmenu_list_item {
+    font-size: 0.75rem;
+  }
+
+
+
+
+.companystats_mainpage {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+.advantagessec_mainpage {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.aboutcompanysec_mainpage {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.benefitssec_mainpage {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.benefitssec_mainpage_content_list_item {
+  max-width: 300px;
+}
+
+.pricessec_mainpage {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+.formsec_mainpage {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+footer {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+
+
+
+
+
+/*----------------------КАТАЛОГ ЦИРК БЛОКИ---------------------------*/
+
+
+.catalogsec_secondpage{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.header_title > nav:nth-child(2) {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+
+/*----------------------КАТАЛОГ НАБОР КРАСИТЕЛЕЙ AURORA---------------------------*/
+
+
+
+/*----------------------КАТАЛОГ НАБОР КРАСИТЕЛЕЙ PINK---------------------------*/
+
+
+
+/*----------------------КАТАЛОГ Зуботехническое оборудование---------------------------*/
+
+
+
+/*----------------------КАТАЛОГ PMMA, WAX, фрезы---------------------------*/
+
+
+
+/*----------------------КАТАЛОГ ИТЕМ 3D PRO Multilayer---------------------------*/
+
+.catalogitemsec_catalogitempage {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.catalogitemsec_catalogitempage_content {
+  column-gap: 14px;
+}
+
+
+/*----------------------КАТАЛОГ ИТЕМ Набор керамических красителей AURORA---------------------------*/
+
+.questions-list-item-wrapinfo_sostav_nabora > img:nth-child(1) {
+  width: 100%;
+}
+
+.questions-list-item:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > img:nth-child(1) {
+  width: 100%;
+}
+
+.questions-list-item:nth-child(3) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > img:nth-child(1) {
+  width: 100%;
+}
+
+
+
+/*----------------------КАТАЛОГ ИТЕМ Набор керамических красителей PINK---------------------------*/
+
+
+/*----------------------КАТАЛОГ ИТЕМ DM5 - Зуботехнический фрезерный станок---------------------------*/
+
+
+/*----------------------КАТАЛОГ ИТЕМ BT-EN18 Интеллектуальная печь для спекания циркония---------------------------*/
+
+
+/*----------------------КАТАЛОГ ИТЕМ BT-ENC2Пылесос для CAD/CAM системы---------------------------*/
+
+
+/*----------------------КАТАЛОГ ИТЕМ Фрезерные боры IMES ICORE DС---------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
